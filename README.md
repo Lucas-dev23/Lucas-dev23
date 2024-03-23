@@ -21,7 +21,7 @@
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Eclipse" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+ <img align="center" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="MySQL Workbench" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="pgAdmin" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
